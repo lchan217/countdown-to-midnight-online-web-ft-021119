@@ -1,3 +1,3 @@
-def countdown
+def countdown(time)
   
 end 
